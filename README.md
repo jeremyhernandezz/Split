@@ -1,7 +1,7 @@
 
 Welcome To Split!
 
-Created by Jeremy Hernandez U4037-0193
+Created by Jeremy Hernandez 
 
 *** This project is built using Swift 5 and Xcode 11.5.
 
