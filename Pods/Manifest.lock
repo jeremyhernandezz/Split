@@ -1,0 +1,26 @@
+PODS:
+  - CardSlider (0.1.0)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - MBCircularProgressBar (0.3.5)
+
+DEPENDENCIES:
+  - CardSlider
+  - Charts
+  - MBCircularProgressBar
+
+SPEC REPOS:
+  trunk:
+    - CardSlider
+    - Charts
+    - MBCircularProgressBar
+
+SPEC CHECKSUMS:
+  CardSlider: 0a8f5f17f5a76701771794b07fdaeddc512358c8
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+
+PODFILE CHECKSUM: 08b87137b8ca92f37a3c03c773d1022eae773fce
+
+COCOAPODS: 1.9.3
